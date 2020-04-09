@@ -1,2 +1,2 @@
 # calc
-This is a toy calculator program for practicing using goilang.
+This is a toy calculator program for practicing using golang.
